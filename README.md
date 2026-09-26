@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @melvinvino
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack
 - ⚡ Fun fact: I have my own manufacturing company for refinery just wanted learn somthing new
 
 <!---
